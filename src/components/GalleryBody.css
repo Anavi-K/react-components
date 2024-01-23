@@ -1,16 +1,16 @@
-.column {
+.column{
     float: left;
     width: 50%;
     padding: 10px;
 }
-
-.column img {
+  
+.column img{
     margin-top: 12px;
     width:100%;
     cursor:pointer;
 }
   
 h1{
-    text-align: center;
-    padding: 32px;
-}  
+   text-align: center;
+   padding: 32px;
+}
